@@ -13,7 +13,7 @@ public class Inbox extends MainClass
 	  driver.findElement(By.xpath(InboxP.xcheckbox)).click();
 	  driver.findElement(By.xpath(InboxP.xdelete)).click();
 
-	  System.out.println("Hello Inbox");
+	  System.out.println("Hello Java 1");
 
 	  System.out.println("Hello");
 	  System.out.println("hai");
