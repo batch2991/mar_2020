@@ -14,6 +14,7 @@ public class Inbox extends MainClass
 	  driver.findElement(By.xpath(InboxP.xdelete)).click();
 	  System.out.println("Hello");
 	  System.out.println("hai");
+	  System.out.println("new updates");
 	  
   }
 }
