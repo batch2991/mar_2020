@@ -8,6 +8,7 @@ public class Sample
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("new line");
+		System.out.println("second line");
 
 	}
 
